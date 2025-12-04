@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://beefcasino.com/sitemap.xml
+Sitemap: https://beefcasino-1uvm.onrender.com/sitemap.xml
